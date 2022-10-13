@@ -1,0 +1,17 @@
+.popup__create-button {
+    font-family: "Inter", Arial, sans-serif;
+    margin: 48px 0 0 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    background-color: #000000;
+    width: 100%;
+    height: 50px;
+    border-radius: 2px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .25);
+}
+
+.popup__create-button:hover {
+    opacity: 0.8;
+}

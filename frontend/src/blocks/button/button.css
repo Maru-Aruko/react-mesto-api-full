@@ -1,0 +1,6 @@
+.button {
+    background-color: unset;
+    border: none;
+    cursor: pointer;
+    transition: opacity 1.5s ease-in-out;
+}

@@ -1,0 +1,15 @@
+.auth__login-link {
+    margin: 15px 0 0 0;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.auth__login-link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 420px) {
+    .auth__login-link{
+        margin: 20px 0 0 0;
+    }
+}

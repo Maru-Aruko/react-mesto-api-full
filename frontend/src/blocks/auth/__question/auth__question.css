@@ -1,0 +1,9 @@
+.auth__question {
+    margin: 15px 0 0 0;
+}
+
+@media screen and (max-width: 420px) {
+    .auth__question {
+        margin: 20px 0 0 0;
+    }
+}

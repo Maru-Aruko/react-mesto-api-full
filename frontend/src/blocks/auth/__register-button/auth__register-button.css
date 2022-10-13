@@ -1,0 +1,11 @@
+.auth__register-button {
+    margin: 216px 0 0 0;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+@media screen and (max-width: 420px) {
+    .auth__register-button {
+        margin: 173px 0 0 0;
+    }
+}
